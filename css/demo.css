@@ -2,11 +2,11 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: 'codropsicons';
-	src:url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.eot');
-	src:url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.eot?') format('embedded-opentype'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.woff') format('woff'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.ttf') format('truetype'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/codropsicons/codropsicons.svg') format('svg');
+	src:url('fonts/codropsicons/codropsicons.eot');
+	src:url('fonts/codropsicons/codropsicons.eot?') format('embedded-opentype'),
+		url('fonts/codropsicons/codropsicons.woff') format('woff'),
+		url('fonts/codropsicons/codropsicons.ttf') format('truetype'),
+		url('fonts/codropsicons/codropsicons.svg') format('svg');
 }
 
 

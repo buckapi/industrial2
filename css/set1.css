@@ -2,11 +2,11 @@
 	font-weight: normal;
 	font-style: normal;
 	font-family: 'feathericons';
-	src:url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.eot?-8is7zf');
-	src:url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.eot?') format('embedded-opentype'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.woff?-8is7zf') format('woff'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.ttf?-8is7zf') format('truetype'),
-		url('https://www.themechampion.com/templates/indofact_html_landing_page/theme/fonts/feathericons/feathericons.svg?-8is7zf') format('svg');
+	src:url('fonts/feathericons/feathericons.eot');
+	src:url('fonts/feathericons/feathericons.eot?') format('embedded-opentype'),
+		url('fonts/feathericons/feathericons.woff') format('woff'),
+		url('fonts/feathericons/feathericons.ttf') format('truetype'),
+		url('fonts/feathericons/feathericons.svg') format('svg');
 }
 
 .grid {
